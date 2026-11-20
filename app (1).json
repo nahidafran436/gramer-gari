@@ -1,1 +1,11 @@
-{ "expo": { "name": "গ্রামের গাড়ি", "slug": "gramer-gari", "version": "1.0.0", "orientation": "portrait", "android": { "package": "com.gramergari.app" } } }
+{
+  "expo": {
+    "name": "গ্রামের গাড়ি",
+    "slug": "gramer-gari",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.gramergari.app"
+    }
+  }
+}
