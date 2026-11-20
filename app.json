@@ -4,6 +4,9 @@
     "slug": "gramer-gari",
     "version": "1.0.0",
     "orientation": "portrait",
+    "splash": {
+      "backgroundColor": "#0E8A4F"
+    },
     "android": {
       "package": "com.gramergari.app"
     }
